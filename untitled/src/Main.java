@@ -6,5 +6,7 @@ public class Main {
         System.out.printf("Hello and welcome!");
         System.out.printf("This is Java Programme");
         System.out.printf(String.valueOf(new Date()));
+        System.out.printf("first code added successfully..!");
+
     }
 }
