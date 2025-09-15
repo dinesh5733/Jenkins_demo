@@ -8,5 +8,8 @@ public class Main {
         System.out.println(String.valueOf(new Date()));
         System.out.println("first code added successfully..!");
         System.out.println("Added modification..");
+
+        Student firstStudent = new Student();
+        firstStudent.sayHello();
     }
 }
